@@ -1,0 +1,25 @@
+# Example celadon test glaze (illustrative numbers, test before firing for real)
+name = Celadon Test
+cone = 6
+
+[batch]
+Potash feldspar = 40
+Silica = 25
+Whiting = 15
+EPK = 10
+Dolomite = 5
+Zinc oxide = 3
+Talc = 2
+
+[additions]
+Red iron oxide = 1
+
+[prices]
+Potash feldspar = 0.60
+Silica = 0.40
+Whiting = 0.25
+EPK = 0.50
+Dolomite = 0.45
+Zinc oxide = 3.20
+Talc = 0.70
+Red iron oxide = 4.00
